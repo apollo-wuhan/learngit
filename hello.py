@@ -4,3 +4,8 @@ print('hello,world')
 # comment from c disk
 # comment from f:/learngit
 
+class Ball(object):
+    pass
+
+
+
