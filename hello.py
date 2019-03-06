@@ -4,8 +4,14 @@ print('hello,world')
 # comment from c disk
 # comment from f:/learngit
 
+<<<<<<< HEAD
 class Ball(object):
     pass
 
 
 
+=======
+class Book(object):
+    pass
+
+>>>>>>> add a new python class
